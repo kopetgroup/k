@@ -1,0 +1,3 @@
+2019-06-22 04:25:33,723 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2019-06-22 04:25:33,728 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2019-06-22 04:25:33,729 CRIT Server 'unix_http_server' running without any HTTP authentication checking

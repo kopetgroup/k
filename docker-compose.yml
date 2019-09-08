@@ -1,0 +1,11 @@
+version: '3'
+services:
+  asmpq:
+    image: afnia/test-rlkv:2
+    ports:
+      - 8001:8000
+#    environment:
+#      - IPORT=19002
+#      - STAGE=PROD
+    volumes:
+      - ./:/home
