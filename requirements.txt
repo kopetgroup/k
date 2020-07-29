@@ -1,4 +1,4 @@
 sanic==19.6.3
 fastapi
-uvicorn==0.8.6
+uvicorn==0.11.7
 uvloop==0.12.* 
